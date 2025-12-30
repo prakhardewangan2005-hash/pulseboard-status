@@ -2,16 +2,13 @@
 owner: prakhardewangan2005-hash
 repo: pulseboard-status
 
-
 sites:
-  - name: Portfolio (Framer)
-    url: https://jumpy-aside-926768.framer.app/product
-  - name: PE Health + Triage Toolkit
-    url: https://github.com/prakhardewangan2005-hash/pe-health-triage
-  - name: Cloudflare DNS
-    url: https://1.1.1.1
-  - name: GitHub
+  - name: Pulseboard Status
     url: https://github.com
+    status-website:
+      baseUrl: /pulseboard-status
+      name: Pulseboard Status
+
 
 
   status-website:

@@ -9,13 +9,16 @@ sites:
 status-website:
   baseUrl: /pulseboard-status
   name: Pulseboard Status
-  introTitle: "**Uptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO).
+  introTitle: "**Pulseboard Status** — uptime & latency monitor"
+  introMessage: "Live monitoring powered by GitHub Actions (Upptime)."
+
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/prakhardewangan2005-hash/pulseboard-status
+
+
 
 
 # Upptime also supports notifications, assigning issues, and more
